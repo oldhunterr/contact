@@ -1,0 +1,19 @@
+{
+    "name": "alooy/contact",
+    "description": "Test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alooy\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sayed Ali",
+            "email": "3alooyalsayed@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
