@@ -8,6 +8,12 @@
             "Alooy\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alooy\\Contact\\ContactServiceProvider"
+            ]
+    },
     "authors": [
         {
             "name": "Sayed Ali",
